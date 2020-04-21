@@ -57,4 +57,4 @@ class Bot(discord.Client):
             await message.channel.send("Exactement 60 lignes")
 if __name__ == "__main__":
     bot = Bot()    
-    bot.run('NzAxMDQwNjk2OTY2MTE5NDk2.XprxIA.wLQzA74ggZ9HfiY313xaNnaBGxc')
+    bot.run('TOKEN')
